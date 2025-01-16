@@ -15,7 +15,7 @@ Each aspect of Questria is like a "house" in the village, fostering collaboratio
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Design**: Figma prototype
@@ -23,14 +23,14 @@ Each aspect of Questria is like a "house" in the village, fostering collaboratio
 
 ---
 
-## Figma Prototype
+## 🎨 Figma Prototype
 
 The design and layout of Questria were meticulously crafted using [Figma](https://www.figma.com/proto/PzghDBTL6lewAzUDYGk6qP/Questria?node-id=29-12&t=YbkUQPZYcrQGBbrp-1). This prototype serves as a blueprint for the user interface and user experience.
 
 ---
 
 
-## Future Scope
+## 🚀 Future Scope
 
 - **Backend Integration**: Add server-side functionality for user authentication, data storage, and dynamic content updates.
 - **Scalability**: Expand the platform to support larger communities and resources.
@@ -40,6 +40,6 @@ The design and layout of Questria were meticulously crafted using [Figma](https:
 ---
 
 
-## Credits
+## 📌 Credits
 Thanks to my hackathon teammates <3
 

@@ -41,5 +41,5 @@ The design and layout of Questria were meticulously crafted using [Figma](https:
 
 
 ## 📌 Credits
-Thanks to my hackathon teammates <3
+Thanks to my first hackathon teammates <3
 
